@@ -1,0 +1,1291 @@
+11:24:09,376  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:24:16,448  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:24:45,972  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:37 - login with user name = valiantvishnu3@gmail.com ans password = Password
+11:25:20,468  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:25:20,535 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:25:20,537 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:25:20,539 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:25:20,542 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:25:20,542 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:28:47,756  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:28:51,624  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:29:17,610  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:37 - login with user name = valiantvishnu3@gmail.com ans password = Password
+11:29:53,843  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:29:53,920 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:29:53,921 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:29:53,924 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:29:53,926 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:29:53,927 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:01:08,942  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+13:01:15,294  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+13:01:46,721  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+13:01:46,774 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:01:46,775 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:01:46,780 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:01:46,781 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:01:46,783 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:07:17,762  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+13:07:26,945  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+13:07:56,646  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:32 - Before enter username and password
+13:08:00,841  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:34 - After given username and password
+13:08:01,402  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+13:08:01,448 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:08:01,448 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:08:01,464 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:08:01,464 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:08:01,464 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:08:01,903  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:46 - Test Completed Successfully
+13:12:01,336  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+13:12:05,996  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+13:12:32,927  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+13:12:36,738  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+13:13:05,470  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+13:13:09,485  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:35 - After given username and password
+13:13:10,006  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+13:13:10,037 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:13:10,054 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:13:10,056 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:13:10,058 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:13:10,059 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:13:10,455  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:33 - =======started verifyRegistration Test===========
+13:14:14,058  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+13:14:14,058 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:14:14,059 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:14:14,061 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:14:14,061 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:14:14,062 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:14:14,180  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+15:01:28,403  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+15:01:34,515  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+15:02:00,658  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+15:02:04,952  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+15:02:35,603  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+15:02:40,072  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:35 - After given username and password
+15:02:40,664  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+15:02:40,879 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+15:02:40,880 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+15:02:40,883 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:02:40,888 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:02:40,889 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:02:41,352  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:33 - =======started verifyRegistration Test===========
+15:02:52,556  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:37 - Register with new user Successfully
+15:02:52,558  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+15:02:52,559 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+15:02:52,561 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+15:02:52,561 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:02:52,562 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:02:52,562 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:02:52,720  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+15:08:14,476  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+15:08:18,891  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+15:09:08,329  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+15:09:12,305  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+15:09:40,569  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+15:09:46,355  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:35 - After given username and password
+15:09:47,021  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+15:09:47,121 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+15:09:47,121 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+15:09:47,137 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:09:47,137 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:09:47,137 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:09:47,911  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:33 - =======started verifyRegistration Test===========
+15:10:52,630  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:37 - Register with new user Successfully
+15:10:52,633  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+15:10:52,634 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+15:10:52,636 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+15:10:52,636 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:10:52,638 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:10:52,639 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:10:53,074  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+17:31:11,184  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:31:15,397  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:31:43,987  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:31:47,933  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:32:16,039  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+17:32:30,427  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:35 - After given username and password
+17:32:31,654  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:32:31,993 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+17:32:31,995 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+17:32:32,004 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:32:32,010 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:32:32,011 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:32:32,885  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:33 - =======started verifyRegistration Test===========
+17:32:45,071  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:32:45,072 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+17:32:45,072 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+17:32:45,074 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:32:45,074 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:32:45,074 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:32:45,166  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+17:51:13,988  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:51:17,846  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:51:42,663  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:51:45,693  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:52:11,658  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+17:52:16,916  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:35 - After given username and password
+17:52:17,568  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:52:17,656 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+17:52:17,671 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+17:52:17,673 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:52:17,679 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:52:17,680 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:52:18,299  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:33 - =======started verifyRegistration Test===========
+17:52:29,069  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:37 - Register with new user Successfully
+17:52:29,071  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:52:29,074 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+17:52:29,075 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+17:52:29,076 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:52:29,076 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:52:29,077 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:52:29,415  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+17:59:23,637  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:59:32,467  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+18:00:01,356  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:34 - Before enter username and password
+18:00:05,291  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:36 - After given username and password
+18:00:05,939  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+18:00:06,047 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:00:06,048 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:00:06,055 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:00:06,057 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:00:06,058 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:00:06,537  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:48 - Test Completed Successfully
+18:01:47,929  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+18:01:52,280  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+18:02:18,885  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+18:02:22,459  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:35 - After given username and password
+18:02:22,975  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+18:02:23,014 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:02:23,016 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:02:23,020 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:02:23,021 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:02:23,022 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:02:23,461  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+18:03:02,915  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+18:03:07,067  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+18:03:34,912  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+18:03:38,565  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:35 - After given username and password
+18:03:39,068  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+18:03:39,105 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:03:39,107 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:03:39,110 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:03:39,111 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:03:39,112 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:03:39,595  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+18:04:14,222  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+18:04:17,805  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+18:04:43,764  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+18:05:17,326  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+18:05:17,332  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+18:05:17,370 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:05:17,372 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:05:17,375 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:05:17,379 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:05:17,381 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:07:48,743  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+18:07:55,263  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+18:08:24,381  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+18:08:32,116  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+18:09:24,340  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+18:09:34,793  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:35 - After given username and password
+18:09:35,786  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+18:09:36,250 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:09:36,255 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:09:36,262 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:09:36,265 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:09:36,265 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:09:38,086  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+18:10:00,239  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+18:10:00,241  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+18:10:00,253 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:10:00,255 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:10:00,256 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:10:00,257 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:10:00,258 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:10:00,350  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+10:11:11,239  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+10:11:17,859  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+10:11:48,113  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+10:11:51,365  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+10:12:18,417  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+10:12:22,440  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:35 - After given username and password
+10:12:23,057  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+10:12:23,127 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+10:12:23,129 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+10:12:23,131 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10:12:23,133 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10:12:23,134 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10:12:23,657  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+10:12:37,779  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+10:12:37,781  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+10:12:37,783 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+10:12:37,785 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+10:12:37,785 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10:12:37,786 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10:12:37,786 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+10:12:37,925  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+11:03:33,376  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:03:40,278  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:04:10,293  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+11:04:13,071  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:04:13,156 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:04:13,156 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:04:13,156 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:04:13,156 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:04:13,156 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:04:13,587  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+11:07:33,148  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:07:37,623  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:08:05,018  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+11:08:07,481  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:08:07,528 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:08:07,528 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:08:07,528 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:08:07,528 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:08:07,528 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:08:07,922  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+11:21:55,629  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:22:00,363  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:22:29,094  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+11:22:32,494  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:35 - After given username and password
+11:23:03,060  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:23:03,098 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:23:03,098 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:23:03,098 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:23:03,098 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:23:03,098 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:23:03,462  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+11:29:39,410  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:29:42,882  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:30:08,972  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - Before enter username and password
+11:30:11,051  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:50 -  is entered in username text box
+11:30:11,051  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:51 -  is entered in Password text box
+11:30:12,565  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - Click action is performed on Submit button
+11:30:12,565  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:35 - After given username and password
+11:30:43,051  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:30:43,069 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:30:43,085 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:30:43,085 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:30:43,085 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:30:43,085 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:30:43,613  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:47 - Test Completed Successfully
+11:39:19,494  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:39:22,794  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:39:49,198  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:37 - Before enter username and password
+11:39:51,171  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:51 -  is entered in username text box
+11:39:51,171  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:52 -  is entered in Password text box
+11:39:52,639  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:57 - Click action is performed on Submit button
+11:39:52,639  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:39 - After given username and password
+11:40:23,174  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:40:23,247 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:40:23,249 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:40:23,258 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:40:23,259 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:40:23,259 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:40:23,712  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:51 - Test Completed Successfully
+11:48:02,303  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:48:05,722  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:48:32,551  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:50:18,957  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:50:22,338  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:50:48,378  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:37 - Before enter username and password
+11:50:49,654  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:50:49,684 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:50:49,685 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:50:49,687 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:50:49,688 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:50:49,689 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:50:50,138  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:53 - Test Completed Successfully
+11:51:31,132  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:51:34,606  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:52:01,352  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:37 - Before enter username and password
+11:52:03,442  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:51 -  is entered in username text box
+11:52:03,442  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:52 -  is entered in Password text box
+11:52:04,832  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:57 - Click action is performed on Submit button
+11:52:04,833  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:40 - After given username and password
+11:52:35,328  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:52:35,359 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:52:35,359 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:52:35,359 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:52:35,374 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:52:35,374 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:52:35,765  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:52 - Test Completed Successfully
+11:54:00,660  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:54:04,038  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:54:33,021  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:37 - Before enter username and password
+11:54:34,972  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:54 -  is entered in username text box
+11:54:34,972  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 -  is entered in Password text box
+11:54:36,378  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Click action is performed on Submit button
+11:54:36,378  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:40 - After given username and password
+11:54:50,436  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:54:50,483 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:54:50,483 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:54:50,483 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:54:50,483 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:54:50,483 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:56:07,452  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:56:11,460  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:56:38,176  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:36 - Before enter username and password
+11:56:40,982  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:56:41,014 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:56:41,015 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:56:41,017 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:56:41,018 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:56:41,018 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:56:41,433  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:51 - Test Completed Successfully
+11:59:07,977  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+11:59:11,504  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+11:59:41,882  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+11:59:44,481  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+11:59:44,528 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+11:59:44,528 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+11:59:44,528 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:59:44,528 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:59:44,528 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:59:44,888  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:45 - Test Completed Successfully
+12:02:53,771  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:02:58,212  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:03:24,933  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+12:03:28,109  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:03:28,118  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - gsgsdsdg is entered in username text box
+12:03:28,118  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:57 -  is entered in Password text box
+12:03:29,655  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:62 - Click action is performed on Submit button
+12:03:29,656  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+12:04:00,176  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:04:00,207 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:04:00,223 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:04:00,223 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:04:00,223 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:04:00,223 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:04:00,567  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:45 - Test Completed Successfully
+12:04:19,901  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:04:23,959  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:04:51,844  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+12:04:54,790  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:04:54,798  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - automation@gmail.com is entered in username text box
+12:04:54,799  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:57 - gsgsdsdg is entered in Password text box
+12:04:56,329  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:62 - Click action is performed on Submit button
+12:04:56,329  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+12:04:56,856  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:04:56,883 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:04:56,883 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:04:56,899 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:04:56,899 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:04:56,899 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:04:57,274  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:45 - Test Completed Successfully
+12:23:12,622  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:23:16,950  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:23:44,229  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+12:23:47,265  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:23:53,878  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+12:23:53,881  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:23:53,928 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:23:53,930 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:23:53,933 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:23:53,934 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:23:53,935 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:24:58,091  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:25:01,700  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:25:29,136  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+12:25:32,055  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:25:38,724  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+12:25:38,727  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:25:38,786 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:25:38,787 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:25:38,790 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:25:38,792 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:25:38,792 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:25:46,591  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:25:52,527  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:26:21,103  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+12:26:24,717  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:27:25,655  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:27:25,694 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:27:25,696 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:27:25,697 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:27:25,699 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:27:25,699 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:33:32,483  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:33:39,687  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:34:07,286  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+12:34:10,544  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:34:10,550  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:53 - automation@gmail.com is entered in username text box
+12:34:10,550  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:54 - gsgsdsdg is entered in Password text box
+12:34:12,023  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Click action is performed on Submit button
+12:34:12,025  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+12:34:12,522  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:34:12,552 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:34:12,557 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:34:12,558 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:34:12,560 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:34:12,560 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:34:12,987  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:45 - Test Completed Successfully
+12:34:42,509  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:34:46,117  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:36:33,332  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+12:36:36,754  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:36:44,044  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+12:36:44,047  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:36:44,089 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:36:44,089 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:36:44,089 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:36:44,089 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:36:44,089 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:36:53,028  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:36:57,189  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:37:27,090  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+12:37:30,481  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:37:37,402  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+12:37:37,413  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:37:37,482 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:37:37,484 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:37:37,484 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:37:37,484 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:37:37,484 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:38:05,555  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:38:09,440  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:38:37,090  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:38:40,511  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:39:09,310  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+12:39:13,145  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:39:13,211  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:53 - automation@gmail.com is entered in username text box
+12:39:13,211  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:54 - gsgsdsdg is entered in Password text box
+12:39:14,800  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Click action is performed on Submit button
+12:39:14,800  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+12:39:15,327  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:39:15,359 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:39:15,359 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:39:15,359 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:39:15,359 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:39:15,359 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:39:15,803  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+12:39:18,572  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:39:25,965  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+12:39:25,967  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:39:26,006 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:39:26,007 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:39:26,007 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:39:26,008 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:39:26,010 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:39:26,171  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:45 - Test Completed Successfully
+12:43:17,832  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:43:22,460  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:43:51,763  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+12:43:55,233  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:44:02,953  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+12:44:02,957  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:44:03,005 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:44:03,008 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:44:03,010 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:44:03,012 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:44:03,012 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:44:37,857  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:44:41,804  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:45:10,287  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+12:45:13,433  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:45:20,161  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+12:45:20,164  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:45:20,228 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:45:20,231 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:45:20,234 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:45:20,237 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:45:20,237 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:48:18,454  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:48:23,127  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:48:52,234  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+12:48:55,878  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:49:02,272  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+12:49:02,274  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:49:02,381 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:49:02,383 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:49:02,385 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:49:02,386 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:49:02,386 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:50:46,386  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:50:50,964  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:51:20,012  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+12:51:31,721  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:51:45,939  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+12:51:45,954  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:51:45,993 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:51:45,994 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:51:45,996 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:51:45,998 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:51:45,998 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:52:13,816  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:52:18,069  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:52:51,849  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+12:53:00,420  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:54:01,492  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:54:01,523 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:54:01,523 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:54:01,523 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:54:01,523 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:54:01,523 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:54:32,005  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:54:37,402  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:55:08,813  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+12:55:20,198  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:55:20,204  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:72 - testmail3887640@gt.com is entered in username text box
+12:55:20,204  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:73 - DFGBHNJM is entered in Password text box
+12:55:32,530  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:78 - Click action is performed on Submit button
+12:55:32,531  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+12:56:03,074  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:56:03,106 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:56:03,106 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:56:03,106 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:56:03,106 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:56:03,106 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:56:03,538  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:45 - Test Completed Successfully
+12:56:31,613  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:56:35,047  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:57:06,605  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+12:57:17,252  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+12:57:17,252  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:72 - testmail3887640@gt.com is entered in username text box
+12:57:17,263  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:73 - DFGBHNJM is entered in Password text box
+12:57:31,321  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:78 - Click action is performed on Submit button
+12:57:31,321  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+12:57:54,220  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:57:54,251 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:57:54,251 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:57:54,251 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:57:54,251 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:57:54,251 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+12:59:16,429  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:59:19,934  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:59:52,830  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:59:55,272  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+13:00:29,943  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+13:00:32,466  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+13:01:09,877  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+13:01:25,026  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+13:01:25,044  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:53 - automation@gmail.com is entered in username text box
+13:01:25,045  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:54 - gsgsdsdg is entered in Password text box
+13:01:34,163  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Click action is performed on Submit button
+13:01:34,163  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+13:01:34,818  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+13:01:34,942 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:01:34,944 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:01:34,960 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:01:34,963 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:01:34,964 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:01:35,518  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+13:01:45,165  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+13:01:57,769  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+13:01:57,772  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+13:01:57,778 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:01:57,779 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:01:57,780 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:01:57,780 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:01:57,780 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:01:57,863  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+13:02:07,356  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+13:02:07,357  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:72 - testmail3887640@gt.com is entered in username text box
+13:02:07,357  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:73 - DFGBHNJM is entered in Password text box
+13:02:19,349  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:78 - Click action is performed on Submit button
+13:02:19,350  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+13:02:49,913  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+13:02:49,915 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:02:49,915 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:02:49,916 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:02:49,916 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:02:49,916 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:02:49,955  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:45 - Test Completed Successfully
+13:02:50,421  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:45 - Test Completed Successfully
+13:08:24,834  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+13:08:30,685  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+13:09:04,089  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+13:09:07,836  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+13:09:13,328  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+13:09:18,289  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+13:09:53,208  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+13:10:05,606  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+13:10:05,614  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:54 - automation@gmail.com is entered in username text box
+13:10:05,615  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - gsgsdsdg is entered in Password text box
+13:10:11,137  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Click action is performed on Submit button
+13:10:11,138  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+13:10:11,702  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+13:10:11,878 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:10:11,878 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:10:11,878 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:10:11,895 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:10:11,896 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:10:12,498  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+13:11:13,016  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+13:11:13,016 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:11:13,031 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:11:13,031 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:11:13,031 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:11:13,031 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:11:13,100  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+13:11:25,061  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+13:11:25,063  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:73 - testmail3887640@gt.com is entered in username text box
+13:11:25,064  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:74 - DFGBHNJM is entered in Password text box
+13:11:36,772  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:79 - Click action is performed on Submit button
+13:11:36,772  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+13:11:37,302  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+13:11:37,303 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:11:37,303 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:11:37,303 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:11:37,303 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:11:37,303 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:11:37,378  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:45 - Test Completed Successfully
+14:24:20,652  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:24:25,698  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:24:58,898  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+14:25:11,662  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+14:25:11,677  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:73 - testmail3887640@gt.com is entered in username text box
+14:25:11,677  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:74 - DFGBHNJM is entered in Password text box
+14:25:28,483  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:79 - Click action is performed on Submit button
+14:25:28,484  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+14:25:29,039  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:25:29,065 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:25:29,081 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:25:29,081 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:25:29,081 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:25:29,081 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:25:29,440  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:45 - Test Completed Successfully
+17:46:11,487  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:46:20,036  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:46:49,895  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:46:52,276  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:47:20,488  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:47:26,570  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:48:04,976  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+17:48:11,195  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+17:48:11,202  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:54 - automation@gmail.com is entered in username text box
+17:48:11,203  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - gsgsdsdg is entered in Password text box
+17:48:13,177  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Click action is performed on Submit button
+17:48:13,178  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:32 - After given username and password
+17:48:14,550  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:48:14,695 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+17:48:14,698 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+17:48:14,701 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:48:14,717 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:48:14,717 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:48:15,616  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+17:48:18,330  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+17:48:25,317  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+17:48:25,320  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:48:25,336 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+17:48:25,337 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+17:48:25,337 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:48:25,338 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:48:25,338 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:48:25,483  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+17:48:27,897  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+17:48:27,897  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:73 - testmail3887640@gt.com is entered in username text box
+17:48:27,898  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:74 - DFGBHNJM is entered in Password text box
+17:48:30,189  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:79 - Click action is performed on Submit button
+17:48:30,190  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+17:48:30,685  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:48:30,687 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+17:48:30,688 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+17:48:30,688 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:48:30,688 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:48:30,688 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:48:30,776  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:44 - Test Completed Successfully
+17:48:31,220  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:45 - Test Completed Successfully
+17:51:13,147  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:51:20,616  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:51:48,752  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+17:51:52,295  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+17:51:58,535  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+17:51:58,540  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:51:58,605 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+17:51:58,607 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+17:51:58,608 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:51:58,609 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:51:58,610 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:54:18,926  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:54:23,261  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:54:50,524  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:54:55,713  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:55:26,429  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:55:29,667  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:55:58,627  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+17:56:03,623  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+17:56:03,632  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:54 - automation@gmail.com is entered in username text box
+17:56:03,632  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - gsgsdsdg is entered in Password text box
+17:56:06,102  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Click action is performed on Submit button
+17:56:06,102  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:32 - After given username and password
+17:56:06,683  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:56:06,813 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+17:56:06,814 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+17:56:06,816 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:56:06,818 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:56:06,819 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:56:07,348  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+17:56:10,417  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+17:56:18,085  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+17:56:18,088  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:56:18,089 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+17:56:18,091 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+17:56:18,092 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:56:18,093 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:56:18,093 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:56:18,196  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+17:56:20,627  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+17:56:20,628  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:73 - testmail3887640@gt.com is entered in username text box
+17:56:20,628  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:74 - DFGBHNJM is entered in Password text box
+17:56:22,965  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:79 - Click action is performed on Submit button
+17:56:22,965  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:33 - After given username and password
+17:56:23,428  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:56:23,429 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+17:56:23,429 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+17:56:23,430 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:56:23,430 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:56:23,430 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:56:23,500  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:44 - Test Completed Successfully
+17:56:23,955  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:45 - Test Completed Successfully
+18:04:06,282  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+18:04:13,677  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+18:04:41,665  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+18:04:45,246  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:28 - Excel sheet opened
+18:04:45,258  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:54 - automation@gmail.com is entered in username text box
+18:04:45,258  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - gsgsdsdg is entered in Password text box
+18:04:46,726  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Click action is performed on Submit button
+18:04:46,727  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:32 - After given username and password
+18:04:47,331  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+18:04:47,381 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:04:47,382 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:04:47,384 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:04:47,384 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:04:47,385 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:04:47,957  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:44 - Test Completed Successfully
+16:21:13,900  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+16:21:23,945  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+16:21:53,152  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+16:21:53,154  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Test Completed Successfully
+16:24:05,878  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+16:24:10,840  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+16:24:39,292  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+16:24:39,295  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Test Completed Successfully
+16:26:47,300  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+16:26:53,594  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+16:27:26,882  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+16:27:26,896  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Test Completed Successfully
+16:29:19,080  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+16:29:23,649  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+16:29:51,570  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+16:29:51,577  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Test Completed Successfully
+16:30:49,488  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+16:30:53,153  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+16:31:23,346  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+16:31:23,348  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Test Completed Successfully
+16:41:44,621  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+16:41:48,235  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+16:42:17,100  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+16:42:17,101  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:86 - Total number of Row used return as < 7 >.
+16:42:17,181  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+16:42:17,183  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:68 - Test Completed Successfully
+16:43:18,246  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+16:43:23,476  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+16:43:53,644  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+16:43:53,644  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:86 - Total number of Row used return as < 7 >.
+16:43:53,728  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+16:43:53,730  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:68 - Test Completed Successfully
+16:44:38,676  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+16:44:46,173  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+16:45:17,325  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+16:45:17,326  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:86 - Total number of Row used return as < 7 >.
+16:45:17,516  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+16:45:17,518  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:68 - Test Completed Successfully
+16:54:48,695  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+16:54:53,639  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+16:55:22,409  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+16:55:22,502  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+16:55:22,505  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+16:56:20,179  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+16:56:24,146  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+16:56:51,970  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+16:56:52,065  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+16:56:52,068  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+16:58:35,308  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+16:58:39,304  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+16:59:09,380  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+16:59:09,476  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+16:59:09,485  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+17:01:21,041  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:01:24,616  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:01:53,139  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+17:01:53,234  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:01:53,236  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+17:05:02,429  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:05:06,631  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:05:35,620  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+17:05:35,706  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:05:35,709  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+17:07:08,050  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:07:11,802  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:07:41,172  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+17:07:41,351  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:07:41,353  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+17:10:26,131  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:10:30,557  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:10:40,366  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+17:10:40,450  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:10:40,455  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+17:12:07,868  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:12:11,739  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:12:40,483  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+17:12:40,569  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:12:40,575  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+17:13:44,816  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:13:49,973  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:14:19,612  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+17:14:19,699  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:14:19,701  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+17:16:40,653  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:16:45,166  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:17:15,195  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+17:17:15,282  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:17:15,286  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+17:19:02,597  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:19:07,562  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:19:40,331  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+17:19:40,406  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:19:40,408  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+17:28:40,505  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:28:45,706  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:29:15,293  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+17:29:15,410  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:29:15,421  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:58 - Test Completed Successfully
+17:32:17,447  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+17:32:23,143  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+17:32:53,888  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+17:32:53,890  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:58 - Test Completed Successfully
+12:25:57,105  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:26:07,023  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:26:36,328  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:26:36,330  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:58 - Test Completed Successfully
+12:59:11,106  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+12:59:20,569  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+12:59:50,997  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+12:59:51,000  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Test Completed Successfully
+14:17:47,769  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:17:55,316  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:18:25,703  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Test Completed Successfully
+14:18:49,907  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:18:55,041  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:19:22,255  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:19:22,258  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Test Completed Successfully
+10:39:25,805  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+10:39:36,763  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+10:39:46,125  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+10:39:46,129  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Test Completed Successfully
+13:58:46,256  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+13:59:03,609  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+13:59:14,627  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+13:59:18,237  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+13:59:18,237  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:54 - automation@gmail.com is entered in username text box
+13:59:18,237  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 -  is entered in Password text box
+13:59:20,012  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Click action is performed on Submit button
+13:59:20,013  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:32 - After given username and password
+13:59:50,763  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+13:59:50,810 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:59:50,810 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+13:59:50,810 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:59:50,810 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:59:50,810 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:59:51,348  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:44 - Test Completed Successfully
+14:09:45,962  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:10:02,712  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:10:42,716  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+14:10:50,541  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+14:10:51,243  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:10:51,312 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:10:51,313 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:10:51,315 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:10:51,316 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:10:51,317 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:10:52,113  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:43 - Test Completed Successfully
+14:12:32,588  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:12:42,603  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:13:08,597  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+14:13:22,627  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+14:13:22,761  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - automation@gmail.com is entered in username text box
+14:13:22,762  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - xcvxcvxcvxc is entered in Password text box
+14:13:25,141  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:61 - Click action is performed on Submit button
+14:13:25,141  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:32 - After given username and password
+14:13:26,560  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:13:26,681 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:13:26,682 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:13:26,684 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:13:26,685 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:13:26,685 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:13:27,793  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:43 - Test Completed Successfully
+14:08:03,571  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:08:08,326  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:08:16,963  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:08:21,837  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:08:32,308  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:08:36,523  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:08:47,109  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+14:08:58,136  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+14:08:58,136  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - automation@gmail.com is entered in username text box
+14:08:58,136  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - xcvxcvxcvxc is entered in Password text box
+14:09:00,342  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:61 - Click action is performed on Submit button
+14:09:00,342  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:32 - After given username and password
+14:09:01,001  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:09:01,085 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:09:01,085 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:09:01,085 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:09:01,085 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:09:01,085 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:09:01,915  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+14:09:04,351  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+14:09:11,248  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+14:09:11,251  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:09:11,251 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:09:11,256 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:09:11,257 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:09:11,258 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:09:11,258 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:09:11,505  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:09:11,506 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:09:11,507 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:09:11,507 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:09:11,508 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:09:11,508 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:09:11,619  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:43 - Test Completed Successfully
+14:09:12,098  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Test Completed Successfully
+14:12:29,975  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:12:33,616  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:12:41,888  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:12:44,565  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:12:53,023  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:12:56,940  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:13:06,979  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+14:13:10,850  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+14:13:10,850  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - automation@gmail.com is entered in username text box
+14:13:10,862  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - xcvxcvxcvxc is entered in Password text box
+14:13:12,795  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:61 - Click action is performed on Submit button
+14:13:12,796  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:32 - After given username and password
+14:13:13,323  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:13:13,354 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:13:13,354 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:13:13,354 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:13:13,370 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:13:13,370 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:13:13,929  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+14:13:16,387  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+14:13:24,253  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+14:13:24,255  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:13:24,256 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:13:24,256 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:13:24,264 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:13:24,265 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:13:24,266 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:13:24,384  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:13:24,385 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:13:24,386 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:13:24,386 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:13:24,386 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:13:24,386 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:13:24,472  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:43 - Test Completed Successfully
+14:13:24,935  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Test Completed Successfully
+14:17:20,024  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:17:26,763  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:17:35,958  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+14:17:40,476  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+14:17:47,056  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+14:17:47,060  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:17:47,141 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:17:47,144 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:17:47,146 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:17:47,147 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:17:47,148 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:18:53,497  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:18:57,396  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:19:04,427  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+14:19:08,019  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+14:19:15,407  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+14:19:15,412  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:19:15,447 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:19:15,450 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:19:15,453 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:19:15,456 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:19:15,456 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:19:55,129  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:19:58,505  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:20:07,100  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:20:11,602  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:20:20,210  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:20:25,222  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:20:36,480  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+14:20:40,581  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+14:20:40,597  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - automation@gmail.com is entered in username text box
+14:20:40,599  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - xcvxcvxcvxc is entered in Password text box
+14:20:42,565  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:61 - Click action is performed on Submit button
+14:20:42,566  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:32 - After given username and password
+14:20:44,488  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:20:44,700 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:20:44,702 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:20:44,705 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:20:44,708 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:20:44,708 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:20:46,097  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+14:20:48,474  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+14:20:56,562  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+14:20:56,566  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:20:56,568 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:20:56,571 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:20:56,571 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:20:56,571 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:20:56,572 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:20:56,874  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:20:56,874 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:20:56,878 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:20:56,878 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:20:56,879 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:20:56,879 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:20:57,411  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:43 - Test Completed Successfully
+14:20:58,332  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:59 - Test Completed Successfully
+14:26:56,641  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:27:05,930  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:27:17,804  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:27:17,806  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+14:29:19,923  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:29:23,651  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:29:31,854  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:29:31,861  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+14:30:10,490  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:30:14,629  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:30:22,321  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:36 - Before enter username and password
+14:30:25,235  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:74 -  is entered in username text box
+14:30:25,236  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:75 -  is entered in Password text box
+14:30:26,499  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:80 - Click action is performed on Submit button
+14:30:26,499  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:39 - After given username and password
+14:30:27,020  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:30:27,073 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:30:27,073 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:30:27,073 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:30:27,073 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:30:27,073 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:30:27,482  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+14:31:45,476  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+14:31:50,121  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-http://automationpractice.com/index.php
+14:32:00,424  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:36 - Before enter username and password
+14:32:04,293  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+14:32:04,300  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:75 - testmail3887640@gt.com is entered in username text box
+14:32:04,301  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:76 - DFGBHNJM is entered in Password text box
+14:32:06,322  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:81 - Click action is performed on Submit button
+14:32:06,322  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:39 - After given username and password
+14:32:06,837  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+14:32:06,863 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+14:32:06,863 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+14:32:06,863 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+14:32:06,863 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+14:32:06,863 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Vishnu%20Teja/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+14:32:07,250  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+23:17:48,041  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+23:17:51,070  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-https://insight-dmoautomation.talix.com/hcc/login
+23:18:51,501  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+23:19:21,973  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+23:19:22,001 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+23:19:22,002 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+23:19:22,004 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:19:22,004 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:19:22,005 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:19:22,217  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:43 - Test Completed Successfully
+23:21:40,511  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+23:21:43,510  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-https://insight-dmoautomation.talix.com/hcc/login
+23:22:00,314  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+23:22:30,790  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+23:22:30,811 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+23:22:30,811 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+23:22:30,813 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:22:30,814 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:22:30,814 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:22:31,010  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:43 - Test Completed Successfully
+23:25:46,953  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+23:25:50,133  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-https://insight-dmoautomation.talix.com/hcc/login
+23:26:50,900  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:34 - Before enter username and password
+23:26:51,272  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+23:26:51,286 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+23:26:51,287 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+23:26:51,288 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:26:51,288 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:26:51,289 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:26:51,437  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - Test Completed Successfully
+23:28:21,053  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+23:28:23,689  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-https://insight-dmoautomation.talix.com/hcc/login
+23:28:42,169  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:34 - Before enter username and password
+23:28:42,555  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:277 - browser closed
+23:28:42,569 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+23:28:42,570 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+23:28:42,570 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+23:28:42,571 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+23:28:42,571 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+23:28:42,728  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - Test Completed Successfully
+15:36:06,678  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:93 - Selected browser is : chrome
+15:36:10,071  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:113 - navigating to :-https://insight-dmoautomation.talix.com/hcc/login
+15:58:56,300  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:141 - navigating to :-https://insight-dmoautomation.talix.com/hcc/login
+15:58:56,332  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:305 - browser closed
+16:20:59,808  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:121 - Selected browser is : chrome
+16:21:03,008  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:141 - navigating to :-https://insight-dmoautomation.talix.com/hcc/login
+16:21:16,513  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+16:21:37,759  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:305 - browser closed
+16:21:37,794 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:21:37,795 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:21:37,796 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:21:37,798 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:21:37,798 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:01:11,609  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+11:01:14,609  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-null
+11:01:14,629  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+11:01:47,983  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+11:01:51,117  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-http://automationpractice.com/index.php
+11:02:02,612  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+11:02:06,294  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+11:02:06,294  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - testlogin is entered in username text box
+11:02:06,294  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - mX+3bS_=u is entered in Password text box
+11:02:36,799  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+11:02:36,814 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+11:02:36,814 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+11:02:36,815 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:02:36,816 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:02:36,816 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:02:36,981  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:43 - Test Completed Successfully
+11:03:43,421  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+11:03:46,328  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-http://automationpractice.com/index.php
+11:03:55,925  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+11:03:58,530  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+11:03:58,531  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - testlogin is entered in username text box
+11:03:58,531  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - mX+3bS_=u is entered in Password text box
+11:04:29,058  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+11:04:29,073 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+11:04:29,074 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+11:04:29,075 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:04:29,075 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:04:29,075 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:04:29,271  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:43 - Test Completed Successfully
+11:07:51,631  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+11:07:54,654  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-http://automationpractice.com/index.php
+11:08:04,376  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+11:08:06,889  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+11:08:06,889  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - testlogin is entered in username text box
+11:08:06,890  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - mX+3bS_=u is entered in Password text box
+11:08:37,335  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+11:08:37,349 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+11:08:37,350 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+11:08:37,351 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:08:37,352 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:08:37,352 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:08:37,513  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:43 - Test Completed Successfully
+11:10:31,088  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+11:10:34,115  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-http://automationpractice.com/index.php
+11:10:44,163  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+11:10:46,668  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+11:10:46,668  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - testlogin is entered in username text box
+11:10:46,668  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - mX+3bS_=u is entered in Password text box
+11:11:17,114  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+11:11:17,139 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+11:11:17,140 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+11:11:17,141 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+11:11:17,141 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+11:11:17,142 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+11:11:17,378  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:43 - Test Completed Successfully
+12:35:45,994  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+12:35:48,808  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-http://automationpractice.com/index.php
+12:36:05,543  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+12:36:08,901  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+12:36:08,901  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - testlogin is entered in username text box
+12:36:08,901  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - mX+3bS_=u is entered in Password text box
+12:36:08,925  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+12:36:08,940 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+12:36:08,941 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+12:36:08,943 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:36:08,944 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:36:08,945 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+20:45:30,342  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+20:45:34,675  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-http://automationpractice.com/index.php
+20:45:46,011  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+20:45:49,054  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-http://automationpractice.com/index.php
+20:46:02,756  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+20:46:05,876  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-http://automationpractice.com/index.php
+20:46:15,428  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+20:46:18,442  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+20:46:18,443  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - testlogin is entered in username text box
+20:46:18,443  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - mX+3bS_=u is entered in Password text box
+20:46:49,096  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+20:46:49,115 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+20:46:49,115 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+20:46:49,116 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+20:46:49,117 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+20:46:49,117 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+20:46:49,333  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+20:46:51,694  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+20:46:59,340  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+20:46:59,342  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+20:46:59,343 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+20:46:59,343 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+20:46:59,343 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+20:46:59,345 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+20:46:59,345 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+20:46:59,394  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:36 - Before enter username and password
+20:47:01,695  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+20:47:01,695  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:75 - testmail3887640@gt.com is entered in username text box
+20:47:01,696  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:76 - DFGBHNJM is entered in Password text box
+20:47:32,322  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+20:47:32,322 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+20:47:32,322 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+20:47:32,323 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+20:47:32,323 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+20:47:32,325 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+20:47:32,384  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:43 - Test Completed Successfully
+20:47:32,862  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
+15:21:05,564  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+15:21:09,123  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-http://automationpractice.com/index.php
+15:21:18,703  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+15:21:22,125  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+15:21:22,125  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - testlogin is entered in username text box
+15:21:22,125  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - mX+3bS_=u is entered in Password text box
+15:21:52,605  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+15:21:52,630 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15:21:52,631 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15:21:52,633 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:21:52,634 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:21:52,634 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:21:52,871  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:44 - Test Completed Successfully
+17:18:12,235  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:127 - Selected browser is : firefox
+17:19:25,858  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+17:19:25,863  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+17:19:25,868  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+17:19:35,670  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+17:19:38,511  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-http://automationpractice.com/index.php
+17:19:48,774  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+17:19:51,648  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-http://automationpractice.com/index.php
+17:20:02,684  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:122 - Selected browser is : chrome
+17:20:05,644  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:142 - navigating to :-http://automationpractice.com/index.php
+17:20:15,420  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Before enter username and password
+17:20:18,770  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+17:20:18,771  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:55 - testlogin is entered in username text box
+17:20:18,771  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:56 - mX+3bS_=u is entered in Password text box
+17:20:49,216  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+17:20:49,235 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:20:49,236 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:20:49,237 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:20:49,237 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:20:49,238 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:20:49,439  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:35 - =======started verifyRegistration Test===========
+17:20:52,397  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+17:20:58,275  INFO com.test.automation.uiAutomation.homepage.TC002_VerifyRegistration<strong>{1}</strong>:39 - Register with new user Successfully
+17:20:58,277  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+17:20:58,278 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:20:58,278 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:20:58,279 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:20:58,279 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:20:58,280 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:20:58,313  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:36 - Before enter username and password
+17:21:01,184  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:30 - Excel sheet opened
+17:21:01,184  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:75 - testmail3887640@gt.com is entered in username text box
+17:21:01,184  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:76 - DFGBHNJM is entered in Password text box
+17:21:31,588  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:306 - browser closed
+17:21:31,588 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:21:31,589 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:21:31,589 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:21:31,589 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:21:31,589 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Teja%20Reddy/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:21:31,613  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:44 - Test Completed Successfully
+17:21:32,012  INFO com.test.automation.uiAutomation.testBase.Testbase<strong>{1}</strong>:60 - Test Completed Successfully
