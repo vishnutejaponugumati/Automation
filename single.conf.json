@@ -1,0 +1,17 @@
+// single.conf.json
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "tejareddy1",
+  "key": "dy1qD2fULVebmqogjxLU",
+
+  "capabilities": {
+    "name": "Bstack-[TestNG] Sample Test",
+    "browserstack.debug": true
+  },
+
+  "environments": {
+    "chrome": {
+      "browser": "chrome"
+    }
+  }
+}
